@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Nobita",
+        "tel":"0935008069",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Doraemon",
+        "tel":"0909090909",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Xuka",
+        "tel":"1111232313",
+        "permission":1
+    },
+    {
+        "id":4,
+        "name":"Xeko",
+        "tel":"1231654423",
+        "permission":1
+    },
+    {
+        "id":5,
+        "name":"Chaien",
+        "tel":"9992131921",
+        "permission":1
+    }
+]
